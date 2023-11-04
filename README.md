@@ -28,3 +28,5 @@
 4. Собрать визуализации основных бизнес-показателей.
 
 5. Исследовать данные о пользователях и их поведении.
+
+6. ссылка на проект: https://docs.google.com/spreadsheets/d/1cVb45TvFf9a4mzppRXClR_lSyDuz-GCdCk-hbgH3v5Q/edit?usp=sharing
